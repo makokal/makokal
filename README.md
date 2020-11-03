@@ -1,4 +1,4 @@
-### Hi there 👋, I am Billy
+### Hi there 👋,
 
 I am en engineer and a scientist with a deep passion for intelligent systems (natural and artificial). 
 - 🔭 I’m currently working at [Voyage](https://voyage.auto/), building decision making for autonomous transportation.
